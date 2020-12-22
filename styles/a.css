@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.change{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+}
+
+.smallchange{
+   position: absolute;
+   margin-bottom: 25%;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
